@@ -1,7 +1,5 @@
 👋 Hi, I’m Pooja Sharma.
 
-📫 How to reach me Linkedln, Twitter.
-
 👀 I’m interested in software development.
 
 🌱 I’m currently learning full-stack development.
