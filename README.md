@@ -12,6 +12,6 @@ Which helps for learners.
 
 🌱 I’m currently learning full-stack development.
 
-💞️ I’m looking to collaborate on open source projects.
+I’m looking to collaborate on open source projects.
 
 📫 You can reach me on LinkedIn and Twitter.
