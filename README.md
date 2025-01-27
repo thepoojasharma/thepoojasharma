@@ -1,4 +1,4 @@
-👋 Hello, I’m Pooja Sharma.
+Hello, I’m Pooja Sharma.
 
 I am BCA final year student.
 
