@@ -1,13 +1,16 @@
-Hello, I’m Pooja Sharma.
+Hi there, I'm Pooja Sharma 👋
 
-I am BCA final year student.
+Welcome to my GitHub profile! I'm a passionate developer with a love for creating innovative solutions and sharing knowledge with the community.
 
-My goal is, every projects or DSA questions which I solved all things i will share here.
+# 🚀 About Me
 
-Which helps for learners.
+- 👨‍💻 Currently working on my tech stack which is full stack.
+- 🌱 Learning and exploring new technologies
+- ⚡ Fun fact: I love hiking and exploring nature
 
-👀 I’m interested in software development.
+## 🛠️ Technologies & Tools
 
-I’m looking to collaborate on open source projects.
-
-📫 You can reach me on LinkedIn and Twitter.
+- Programming Languages: Python, JavaScript, Java
+- Frameworks: React, Node.js
+- Databases: MySQL, MongoDB
+- Tools: Git
