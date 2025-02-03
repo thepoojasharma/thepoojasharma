@@ -5,8 +5,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 # 🚀 About Me
 
 - 👨‍💻 Currently working on my tech stack which is full stack.
-- 🌱 Learning and exploring new technologies
-- ⚡ Fun fact: I love hiking and exploring nature
+- 🌱 Learning and exploring new technologies.
 
 ## 🛠️ Technologies & Tools
 
