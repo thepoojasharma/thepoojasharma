@@ -4,7 +4,7 @@
 Hello! I'm Pooja Sharma, and I am excited to announce my intention to participate in Google Summer of Code (GSoC) 2025. GSoC is a global program that offers students stipends to write code for various open source projects during the summer.
 
 ## About Me
-I am a beginner in the world of open source and a [Your Role/Student at Your University] with a keen interest in web development. I enjoy working on front-end, back-end, and full-stack development projects. Although I am just starting out, I am eager to learn, grow, and contribute to impactful projects.
+I am a beginner in the world of open source and a I am BCA final year student at Bharati vidyapeeth University with a keen interest in web development. I enjoy working on front-end, back-end, and full-stack development projects. Although I am just starting out, I am eager to learn, grow, and contribute to impactful projects.
 
 ## Goals for GSoC 2025
 Through GSoC 2025, I aim to:
