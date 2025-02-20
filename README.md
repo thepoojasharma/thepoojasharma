@@ -17,7 +17,7 @@ Feel free to check out my repositories to see some of the projects I've been wor
 
 ## About Me
 
-I am a beginner in the world of open source and a final year BCA student at Bharati Vidyapeeth University with a keen interest in web development. I enjoy working on front-end, back-end, and full-stack development projects. Although I am just starting out, I am eager to learn, grow, and contribute to impactful projects.
+I am a beginner in the world of open source and a final year BCA student with a keen interest in web development. I enjoy working on front-end, back-end, and full-stack development projects. Although I am just starting out, I am eager to learn, grow, and contribute to impactful projects.
 
 ## Goals for GSoC 2025
 
