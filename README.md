@@ -10,8 +10,6 @@ I believe in continuous learning and self-improvement. Here are some of the tech
 - **Web Development**: HTML, CSS, React, Node.js, Express
 - **Version Control**: Git & GitHub
 - **Databases**: MongoDB, SQL
-- **DevOps**: Docker, Kubernetes, CI/CD
-- **Cloud Computing**: AWS, Azure
 
 Feel free to check out my repositories to see some of the projects I've been working on as part of my learning journey.
 
