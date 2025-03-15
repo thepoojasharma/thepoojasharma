@@ -6,10 +6,10 @@ Hello! I'm Pooja Sharma, a passionate learner and open-source enthusiast. I love
 
 I believe in continuous learning and self-improvement. Here are some of the technologies and topics I am currently focusing on:
 
-- **Programming Languages**: Python, JavaScript, TypeScript
+- **Programming Languages**: Python, JavaScript
 - **Web Development**: HTML, CSS, React, Node.js, Express
 - **Version Control**: Git & GitHub
-- **Databases**: MongoDB, SQL
+- **Databases**:SQL
 
 Feel free to check out my repositories to see some of the projects I've been working on as part of my learning journey.
 
