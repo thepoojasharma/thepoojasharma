@@ -1,36 +1,41 @@
-# Welcome to My GitHub Profile!
+# 🌼 Hi, I’m Pooja Sharma
 
-Hello! I'm Pooja Sharma, a passionate learner and open-source enthusiast. I love exploring new technologies and contributing to the community. Below you will find information about my learning progress and my contributions to open-source projects.
+Welcome to my GitHub! I’m a **BCA graduate**, lifelong learner, and a believer in progress over perfection. This space reflects my journey — as someone who’s building confidence, growing with intention, and learning out loud.
 
-## 📚 Learning Progress
+---
 
-I believe in continuous learning and self-improvement. Here are some of the technologies and topics I am currently focusing on:
+## 🎯 My Core Goals
 
-- **Programming Languages**: Java, Python, JavaScript
-- **Web Development**: HTML, CSS, React
-- **Version Control**: Git & GitHub
-- **Databases**:SQL
+My journey is about more than just tech. I’m here to grow, inspire, and create impact from the inside out. Here’s what I’m working toward:
 
-Feel free to check out my repositories to see some of the projects I've been working on as part of my learning journey.
+- 🌱 **Grow a meaningful YouTube channel** — focused on mindset, motivation & self-growth  
+- 🎯 **Share my journey** as a learner and dreamer — to support others on their path  
+- 💛 **Create content** that feels honest, hopeful, and helpful  
+- ✨ Build confidence, purpose, and consistency — in life & learning  
+- 🧠 Keep growing in tech and creative expression, one step at a time  
 
-## About Me
+---
 
-I am a beginner in the world of open source and a final year BCA student with a keen interest in web development. I enjoy working on front-end, back-end, and full-stack development projects. Although I am just starting out, I am eager to learn, grow, and contribute to impactful projects.
+## 🌸 A Little About Me
 
-## 🌟 Open Source Contributions
+I’m not here to impress — I’m here to grow.  
+As a BCA graduate, I’ve realized that true growth isn’t just about skills — it’s about mindset, consistency, and heart.
 
-I am always eager to contribute to open-source projects and collaborate with other developers. 
-If you have any interesting projects or need help with your open-source project, feel free to reach out to me. Collaboration is key to learning and growing together!
+This profile is a small reflection of my progress — from tech projects to personal breakthroughs.  
+Every step matters, and I believe in showing up even before everything feels "ready."
 
-## 📫 How to Reach Me
+---
 
-Feel free to reach out to me for any questions or collaboration opportunities:
-- **Email**: thesharmapooja1444@gmail.com
-- **GitHub**: [thepoojasharma](https://github.com/thepoojasharma)
-- **LinkedIn**: [Pooja Sharma](https://www.linkedin.com/in/the-pooja-sharma/)
+## 🌐 Let’s Stay Connected
 
-Thank you for reading, and I look forward to making valuable contributions to open source and participating in GSoC 2025!
+- 📧 **Email**: [thesharmapooja1444@gmail.com](mailto:thesharmapooja1444@gmail.com)  
+- 🧑‍💻 **GitHub**: [@thepoojasharma](https://github.com/thepoojasharma)  
+- 💼 **LinkedIn**: [Pooja Sharma](https://www.linkedin.com/in/the-pooja-sharma/)  
+- 🎥 **YouTube**: https://www.youtube.com/@Pooja-VibeMatch
 
-Pooja Sharma
+---
 
-Let's Grow together.
+> “You don’t need to be perfect to begin. You just need to be honest and willing.”
+
+Thanks for being here 💛  
+Let’s grow — one simple, real step at a time.
