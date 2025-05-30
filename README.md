@@ -28,7 +28,7 @@ Every step matters, and I believe in showing up even before everything feels "re
 
 ## 🌐 Let’s Stay Connected
 
-- 📧 **Email**: [thesharmapooja1444@gmail.com](mailto:thesharmapooja1444@gmail.com)  
+- 📧 **Email**: [thepoojasharma007@gmail.com](mailto:thesharmapooja1444@gmail.com)  
 - 🧑‍💻 **GitHub**: [@thepoojasharma](https://github.com/thepoojasharma)  
 - 💼 **LinkedIn**: [Pooja Sharma](https://www.linkedin.com/in/the-pooja-sharma/)  
 - 🎥 **YouTube**: https://www.youtube.com/@Pooja-VibeMatch
