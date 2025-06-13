@@ -38,18 +38,6 @@
 
 ### 📚 Projects
 
-#### [IndTech SmartX – Product Landing Page](https://github.com/thepoojasharma/indtech-smartx)
-A modern, responsive landing page for IndTech SmartX, featuring accessibility, SEO best practices, and a beautiful UI.  
-[Live Demo](https://thepoojasharma.github.io/indtech-smartx/)
-
-#### [IndTech SmartX – Product Launch Email Template](https://github.com/thepoojasharma/email-template)
-A visually appealing, fully responsive HTML email template for product announcements and marketing campaigns.  
-[Live Preview](https://thepoojasharma.github.io/email-template/)
-
-#### [Portfolio Website](https://github.com/thepoojasharma/portfolio)
-My personal portfolio website showcasing my work, skills, and journey as a developer.  
-[Live Site](https://thepoojasharma.github.io/portfolio/)
-
 > _I'm always working on new ideas! More exciting projects coming soon..._
 
 If you’d like to collaborate or connect, don’t hesitate to reach out!
