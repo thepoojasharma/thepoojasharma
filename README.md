@@ -21,7 +21,7 @@
 ### 🛠️ Skills
 
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap, React
-- **Backend:** Java, Spring Framework
+- **Backend:** Java, Spring Framework, Node.js
 - **Other:** Git & GitHub, Responsive Design, Problem Solving
 
 ---
