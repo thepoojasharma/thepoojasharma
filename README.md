@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Pooja Sharma 👋</h1>
 <p align="center">
-  <em>Java Full Stack Developer | BCA Graduate | Tech & Mindset Creator</em>
+  <em>Junior Full Stack Developer | BCA Graduate | Tech & Mindset Enthusiast</em>
 </p>
 
 <p align="center">
@@ -13,54 +13,52 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 BCA Graduate with a strong foundation in **Java Full Stack Development**
-- 💻 I build web apps using **HTML, CSS, JS, React**, and scalable backends with **Java & Spring**
-- 🌍 Actively exploring **AI tools**, problem-solving, and real-world impact projects
-- ✍️ Passionate content creator on **YouTube** — sharing ideas on growth, consistency, mindset, and tech
-- 🔁 Learning in public and growing with a mission to inspire others through **code + creativity**
+- 🎓 BCA Graduate learning and growing as a **Junior Full Stack Web Developer**
+- 💻 I enjoy building websites using **HTML, CSS, JavaScript**, and beginner-friendly frontend tools  
+- 🌱 Currently learning **React** and **Java with Spring Boot** for backend development  
+- ✍️ Sharing my tech and personal growth journey on **YouTube** to inspire consistent learners  
+- 🔁 Learning in public and building small projects to improve step by step
 
 ---
 
 ### 🛠️ My Tech Toolbox
 
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap, React  
-- **Backend:** Java, Spring Framework, Node.js  
-- **Tools & Workflow:** Git & GitHub, VS Code, REST APIs, Postman  
-- **Other:** Problem Solving, Responsive Design, Clean Code Practices  
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap  
+- **Backend:** Java (Core), Spring Boot (Basics)  
+- **Tools:** Git & GitHub, VS Code 
+- **Currently Learning:** React.js, MySQL, APIs
 
 ---
 
-### 🌟 What Makes Me Different?
+### 🌟 What Makes Me Unique?
 
-- 🎥 **Content with Purpose**: My YouTube channel blends tech, mindset, and growth in an honest way  
-- 🧠 **Growth Mindset**: I'm building consistency, confidence, and clarity — in life and in code  
-- 🚀 **Execution Focused**: I'm not just learning — I implement, build, share, and help others do the same  
-- 🤝 **Community First**: I believe in learning together, supporting each other, and celebrating small wins  
-- 💡 **Creative Explorer**: I express myself through design, storytelling, and innovation  
+- 📹 **Learning + Creating**: I simplify what I learn through videos and posts  
+- 💭 **Mindset-Driven**: I focus on building confidence, consistency, and clarity  
+- 📖 **Beginner Friendly**: I document my journey in a relatable, honest, and helpful way  
+- 🎯 **Goal-Oriented**: I track progress, reflect on growth, and aim to get better every day  
 
 ---
 
 ### 💼 Projects
 
-> _I’m currently working on impactful full-stack and AI-integrated projects. Stay tuned!_  
-> [More projects coming soon on my GitHub →](https://github.com/thepoojasharma)
+> _Currently building beginner-level full stack projects — portfolio site, to-do app, and more._  
+> [Check back soon for live demos and project links!](https://github.com/thepoojasharma)
 
 ---
 
-### 📢 I’m Open To:
+### 🎯 Open To:
 
-- 🤝 Collaborations on web development or tech-for-good ideas  
-- 🧑‍💻 Internship or junior developer roles (Java Full Stack, React, etc.)  
-- 🎥 Podcast invites, YouTube collabs, or speaking about tech & growth  
-- 💼 Freelance opportunities in website building, tech strategy, or content creation  
+- 💼 Internship or entry-level developer roles  
+- 🤝 Learning groups, beginner collaborations, open-source practice  
+- 🎥 YouTube collabs or student-friendly content projects  
 
 ---
 
 ### 🌐 Let's Connect
 
 - 📧 Email: [thepoojasharma007@gmail.com](mailto:thepoojasharma007@gmail.com)  
-- 🧑‍💻 GitHub: [@thepoojasharma](https://github.com/thepoojasharma)  
 - 💼 LinkedIn: [Pooja Sharma](https://www.linkedin.com/in/the-pooja-sharma/)  
+- 🧑‍💻 GitHub: [@thepoojasharma](https://github.com/thepoojasharma)  
 - 🎥 YouTube: [Pooja-VibeMatch](https://www.youtube.com/@Pooja-VibeMatch)
 
 ---
@@ -71,4 +69,4 @@
 
 ---
 
-<p align="center"><strong>“Build yourself like a product. Evolve, improve, and inspire.”</strong></p>
+<p align="center"><strong>“Every small step counts. I’m building skills, confidence, and purpose — one day at a time.”</strong></p>
